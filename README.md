@@ -11,6 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://mail.google.com/" target="_blank">vladalexeco86@gmail.com</a> </br>
-  <a href="https://t.me/cirrus_minor" target="_blank">https://t.me/cirrus_minor</a>
+  <a href="https://mail.google.com/" target="_blank">Email: vladalexeco86@gmail.com</a> </br>
+  <a href="https://t.me/cirrus_minor" target="_blank">Telegram: https://t.me/cirrus_minor</a>
 </p>
