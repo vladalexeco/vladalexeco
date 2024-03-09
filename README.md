@@ -6,7 +6,8 @@
 
 <h1 align="left">My Stack:</h1>
 <p align="left">Clean Architecture, SOLID, MVVM, MVP</p>
-<p align="left">Android SDK, GitFlow, LiveData, Jetpack Navigation Component, Koin, Coroutines, Flow, Room, Retrofit2, Glide, Jetpack Compose, Firebase</p>
+<p align="left">Andrid View, Jetpack Compose</p>
+<p align="left">Android SDK, GitFlow, LiveData, Jetpack Navigation Component, Koin, Hilt, Coroutines, Flow, Room, Retrofit2, Glide, Firebase</p>
 
 
 <h3 align="left">Connect with me:</h3>
